@@ -1,4 +1,8 @@
-# snooker score app v1.1
+# 
+# snooker score app
+# count score
+# keep performance data
+
 from sys import argv
 
 player_one = raw_input("Who is player one? ")
