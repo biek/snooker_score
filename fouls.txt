@@ -1,4 +1,4 @@
-# fouls
+# fouls in snooker
 std_foul = 4
 blue_foul = 5
 pink_foul = 6
