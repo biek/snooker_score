@@ -1,6 +1,6 @@
 # defines colour values
 
-def colour_values(red,yellow, green, brown, blue, pink, black):
+def colour_values(red, yellow, green, brown, blue, pink, black):
     print "Red:%r\nYellow:%r\nGreen:%r\nBrown:%r\nBlue:%r\nPink:%r\nBlack%r" % (
         red,yellow,green,brown,blue,pink,black)
         
