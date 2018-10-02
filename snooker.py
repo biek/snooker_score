@@ -1,7 +1,9 @@
 # 
 # snooker score app
-# count score
+# count scores
 # keep performance data
+# keep player profiles
+# suggest play style
 
 from sys import argv
 
